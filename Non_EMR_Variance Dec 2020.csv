@@ -1,0 +1,15 @@
+"","Site Name","lt15M_Previously lost but Returned to Treatment","lt15F_Previously lost but Returned to Treatment","15-19M_Previously lost but Returned to Treatment","15-19F_Previously lost but Returned to Treatment","20-24M_Previously lost but Returned to Treatment","20-24F_Previously lost but Returned to Treatment","25+M_Previously lost but Returned to Treatment","25+F_Previously lost but Returned to Treatment","lt15M_Transfers - In","lt15F_Transfers - In","15-19M_Transfers - In","15-19F_Transfers - In","20-24M_Transfers - In","20-24F_Transfers - In","25+M_Transfers - In","25+F_Transfers - In","lt15M_Lost (LFTU) (> 30 days)","lt15F_Lost (LFTU) (> 30 days)","15-19M_Lost (LFTU) (> 30 days)","15-19F_Lost (LFTU) (> 30 days)","20-24M_Lost (LFTU) (> 30 days)","20-24F_Lost (LFTU) (> 30 days)","25+M_Lost (LFTU) (> 30 days)","25+F_Lost (LFTU) (> 30 days)","lt15M_Died","lt15F_Died","15-19M_Died","15-19F_Died","20-24M_Died","20-24F_Died","25+M_Died","25+F_Died","lt15M_Stopped Treatment","lt15F_Stopped Treatment","15-19M_Stopped Treatment","15-19F_Stopped Treatment","20-24M_Stopped Treatment","20-24F_Stopped Treatment","25+M_Stopped Treatment","25+F_Stopped Treatment","lt15M_Transfer Outs","lt15F_Transfer Outs","15-19M_Transfer Outs","15-19F_Transfer Outs","20-24M_Transfer Outs","20-24F_Transfer Outs","25+M_Transfer Outs","25+F_Transfer Outs"
+"1","Mwer Dispensary",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"2","Mur Malanga Dispensary",0,0,0,0,0,0,2,1,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"3","Benga Dispensary",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"4","Ndeda Dispensary",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+"5","Oyamo Dispensary",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+"6","Ouya Dispensary",0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"7","Othach Dispensary",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"8","Radier Dispensary",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"9","Anyuongi Dispensary",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"10","Mabinju Dispensary",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3
+"11","Lieta Health Centre (Rarieda)",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"12","Chianda Dispensary (Rarieda)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"13","Nyangu Dispensary",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"14","Umer Dispensary",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3
