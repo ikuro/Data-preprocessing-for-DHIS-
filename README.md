@@ -1,6 +1,15 @@
 # R script used to preprocess and transform data into a longer format and then into a wider format
+## Table of Contents
 
-### Project overview
+- [Project Overview](#project-overview)
+- [Data sources](#data-sources)
+- [Tools](#tools)
+- [Data Preparation](#data-preparation)
+- [Data preprocessing](#data-preprocessing)
+- [Data verification](#data-verification)
+
+
+### Project Overview
 This process  involves pulling data that has been collected using an Excel template, aggregating some columns (since the data was collected using finer age disaggregated, the final export files need it to be <15yrs 15-19 yrs, 20-24 yrs and >25  yrs). After that, there is a need to unpivot it and transform it to a spread view using R libraries.
 
 ### Data sources 
